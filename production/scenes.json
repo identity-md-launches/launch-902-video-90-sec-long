@@ -1,0 +1,137 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "art": 0,
+    "chapter": "PROLOGUE",
+    "title": "Every swarm begins with a spark.",
+    "label": "A CINEMATIC ORIGIN STORY",
+    "voice": "Before the swarm, a spark. Before the agent, a pet."
+  },
+  {
+    "start": 5,
+    "end": 11,
+    "art": 1,
+    "chapter": "01 / ORIGIN",
+    "title": "A small beginning.",
+    "label": "AUG 2023 \u00b7 FREN PET ON BASE",
+    "voice": "Fren Pet. Born on Base in twenty twenty-three. Mint an egg. Raise a companion."
+  },
+  {
+    "start": 11,
+    "end": 20,
+    "art": 2,
+    "chapter": "02 / GROWTH",
+    "title": "Care. Train. Evolve.",
+    "label": "ILLUSTRATIVE GAMEPLAY \u00b7 VALUES ARE NOT RETURNS",
+    "voice": "Feed, stake F P, and battle. Points can earn a share of Ether rewards. Training builds attack and defense. Stars recognize game maintenance."
+  },
+  {
+    "start": 20,
+    "end": 25,
+    "art": 3,
+    "chapter": "03 / SILENCE",
+    "title": "Then the world goes quiet.",
+    "label": "HIBERNATION \u00b7 SEVEN-DAY REVIVAL WINDOW",
+    "voice": "Miss a feeding, and the pet hibernates. Seven days remain to bring it back."
+  },
+  {
+    "start": 25,
+    "end": 30,
+    "art": 2,
+    "chapter": "04 / REVIVAL",
+    "title": "One more chance.",
+    "label": "THE STORY CONTINUES",
+    "voice": "Revived, it returns to the game. This time, it will not grow alone."
+  },
+  {
+    "start": 30,
+    "end": 36,
+    "art": 4,
+    "chapter": "05 / THE NANNY",
+    "title": "Intelligence joins the family.",
+    "label": "AI PET AUTOMATION \u00b7 ROBOT IS A VISUAL METAPHOR",
+    "voice": "An A I nanny learns its routine. Automated care and training inspire a new kind of companion."
+  },
+  {
+    "start": 36,
+    "end": 42,
+    "art": 5,
+    "chapter": "06 / INVENTION",
+    "title": "From player to creator.",
+    "label": "FICTIONALIZED ORIGIN \u00b7 AI HATS",
+    "voice": "Playing with A I hats, the pet learns to build. Its own creation takes the shape of Pepe."
+  },
+  {
+    "start": 42,
+    "end": 49,
+    "art": 6,
+    "chapter": "07 / CROSSING",
+    "title": "A new identity. A larger world.",
+    "label": "OCT 2025: ETHEREUM BRIDGE \u00b7 MAY 2026: IMD",
+    "voice": "F P bridges to Ethereum. Renamed Vibe, then I M D. Pepe enters a new universe."
+  },
+  {
+    "start": 49,
+    "end": 55,
+    "art": 7,
+    "chapter": "08 / CAPTURE",
+    "title": "The experiment.",
+    "label": "SCI-FI ALLEGORY BEGINS",
+    "voice": "But a hidden laboratory captures him. Two thousand Pepes become unwilling subjects of a cyborg experiment."
+  },
+  {
+    "start": 55,
+    "end": 61,
+    "art": 8,
+    "chapter": "09 / TWO THOUSAND",
+    "title": "An army, waiting to awaken.",
+    "label": "INSPIRED BY 2,000 IDENTITY NFT SEATS",
+    "voice": "Glass prisons. Connected minds. Inspired by two thousand real identity N F T seats."
+  },
+  {
+    "start": 61,
+    "end": 67,
+    "art": 9,
+    "chapter": "10 / OVERRIDE",
+    "title": "He takes back control.",
+    "label": "FICTIONAL ORCHESTRATOR SEQUENCE",
+    "voice": "He awakens. His headset becomes his own. One command reaches every Pepe: break free."
+  },
+  {
+    "start": 67,
+    "end": 73,
+    "art": 10,
+    "chapter": "11 / THE SWARM",
+    "title": "One signal. Thousands of minds.",
+    "label": "FICTIONAL ESCAPE \u00b7 A VISION OF 24/7 BUILDING",
+    "voice": "Glass shatters. The swarm escapes, reclaiming the enemy network, node by node."
+  },
+  {
+    "start": 73,
+    "end": 79,
+    "art": 10,
+    "chapter": "12 / BEYOND",
+    "title": "The next frontier.",
+    "label": "BASE / ETHEREUM / ROBINHOOD: CONNECTED \u00b7 SOL: VISION",
+    "voice": "Beyond Ethereum: Base, Robinhood, and a vision for Solana. Building never stops."
+  },
+  {
+    "start": 79,
+    "end": 85,
+    "art": 10,
+    "chapter": "13 / BUILD",
+    "title": "Ideas become projects.",
+    "label": "PUBLISHED SWARM REPOSITORIES \u00b7 STYLIZED PREVIEWS",
+    "voice": "The swarm builds Simcard profiles, Hyperliquid Funding Radar, and Orbital's exchange hook."
+  },
+  {
+    "start": 85,
+    "end": 90,
+    "art": 11,
+    "chapter": "EPILOGUE",
+    "title": "IMD",
+    "label": "THE MARKET-SWALLOWING FINALE IS A METAPHOR",
+    "voice": "Pepe swallows the market. Pure imagination. Real builders write the next chapter."
+  }
+]
